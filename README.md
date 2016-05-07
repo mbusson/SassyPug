@@ -10,7 +10,7 @@ Opal aims at integrating several features to biggie, such as:
 - [x] GSAP support
 
 And removing some other features such as:
-- [ ] Removed LESS preprocessing
+- [ ] LESS preprocessing
 
 ## Getting Started
 
