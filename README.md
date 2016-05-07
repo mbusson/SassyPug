@@ -8,7 +8,7 @@ Opal aims at integrating several features to biggie, such as:
 - [x] Sass preprocessing
 - [x] jQuery support
 - [x] GSAP support
-- [-] Revoved LESS support
+- [ ] Removed LESS preprocessing /!\ No LESS support
 
 ## Getting Started
 
