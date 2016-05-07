@@ -13,7 +13,7 @@ And removing some other features such as:
 
 ## Getting Started
 
-`git clone https://github.com/baptistebriel/biggie.git folder-name`
+`git clone https://github.com/mbusson/Opal.git folder-name`
 
 `cd folder-name && npm i && gulp`
 
@@ -21,15 +21,15 @@ Your site will be at `http://localhost:3000` by default using [browser-sync](htt
 
 ## Gulp tasks
 
-- `less` compilation to `css`
+- `Jade` compilation to `html`
+- `Sass` compilation to `css`
 - browserify + babelify & uglify `js` files
   - use `build/app.js` for development, `build/app.min.js` for production
 - watch for `css` and `js` files, livereload with browser-sync
 
 ## Todo
 
-- [x] biggie + [wordpress](https://wordpress.org) *(will push to a new branch)*
-- [x] biggie + [cockpit](http://getcockpit.com) *(will push to a new branch)*
+- [ ] Actually put the project online...
 
 ### JS utils
 
@@ -48,13 +48,8 @@ Under `/assets/js/utils.js` there's a couple of `utils` functions:
 
 ### Examples
 
-- [oursroux.com](http://oursroux.com)
-- [flavinsky.com](http://flavinsky.com)
-- [pierrelevaillant.me](http://pierrelevaillant.me)
-- [bbriel.me](http://bbriel.me)
-- [bigwheel-framework/built-with-bigwheel](https://github.com/bigwheel-framework/built-with-bigwheel)
-- & more to come!
+- [ ] None for now
 
 ### License
 
-MIT, see [LICENSE.md](https://github.com/baptistebriel/biggie/blob/gh-pages/LICENSE).
+MIT, see [LICENSE.md](https://github.com/mbusson/Opal).
