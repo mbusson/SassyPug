@@ -20,38 +20,15 @@ Your site will be at `http://localhost:3000` by default using [browser-sync](htt
 
 ## Tutorial
 
-This tutorial will guide you through the use of Opal, part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework.
+This tutorial will guide you through the use of Opal. It is quite bulky but required to get a good grasp on what's actually going on in Opal.
+Part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework.
 
-### Using bigwheel:
-- [Quick Start](quickstart.md)
-
-### Sections:
-- [What is a section](sections.md)
-- Methods of a section:
-    + [init](sections-init.md)
-    + [resize](sections-resize.md)
-    + [animateIn](sections-animateInOut.md#animatein) and [animateOut](sections-animateInOut.md#animateout)
-    + [destroy](sections-destroy.md)
-
-### Routing:
-- [What is a route](routes.md)
-- [Defining routes](routes-defining.md)
-    + [As section](routes-defining.md#as-section-standard-form)
-    + [As section descriptor](routes-defining.md#as-section-descriptor)
-    + [Multi section routes](routes-defining.md#multi-section-routes)
-- [Special Routes](routes-special.md)
-    + [Redirects](routes-special.md#redirects)
-    + [404](routes-special.md#404)
-    + [initSection](routes-special.md#initsection)
-
-### Misc:
-- [Auto resize](misc.md#auto-resize)
-- [Post hash](misc.md#auto-resize)
-- [Overlap](misc.md#overlap)
-
-### Gotchas:
-- [Forgetting to call done](gotchas.md#forgetting-to-call-done)
-- [Circular dependendencies](gotchas.md#circular-dependendencies)
+### Part 1:
+- [Managing content with Bigwheel](quickstart.md)
+### Part 2:
+- [Handy utilities with Biggie](quickstart.md)
+### Part 3:
+- [Good to know...](quickstart.md)
 
 ## Gulp tasks
 
