@@ -1,6 +1,6 @@
 # Opal
 
-Opal is a JavaScript application boilerplate derived from [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/).
+Opal is a Javascript application boilerplate derived from [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/).
 
 Opal includes several features from biggie, and adds new ones such as:
 - [x] Jade preprocessing
