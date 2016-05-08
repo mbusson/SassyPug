@@ -34,7 +34,7 @@ Your site will be at `http://localhost:3000` by default using [browser-sync](htt
 
 ### JS utils
 
-Under `/assets/js/utils.js` there's a couple of `utils` functions:
+Under `/assets/js/utils.js` there's a couple of `utils` functions, as integrated in biggie by [Baptiste Briel](https://github.com/baptistebriel/):
 
 - css
   - `getRect(top, right, bottom, left)` returns the css rect string with clip values
