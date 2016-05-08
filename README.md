@@ -2,11 +2,14 @@
 
 Opal is a JavaScript application boilerplate written in ES6 broadly based on [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself a boilerplate based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/).
 
-Opal aims at integrating several features to biggie, such as:
+Opal includes several features from biggie, and adds new ones such as:
 - [x] Jade preprocessing
 - [x] Sass preprocessing
 - [x] jQuery support
 - [x] GSAP support
+- [x] Browserify, babelify and uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
+- [x] Livereload your CSS and JS (with browser-sync)
+- [x] Adds fancy utilities described in Part.2 of our Tutorial
 
 ## Getting Started
 
@@ -30,32 +33,9 @@ Part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwhee
 ### Part 3:
 - [Good to know...](quickstart.md)
 
-## Gulp tasks
-
-- `Jade` compilation to `html`
-- `Sass` compilation to `css`
-- browserify + babelify & uglify `js` files
-  - use `build/app.js` for development, `build/app.min.js` for production
-- watch for `css` and `js` files, livereload with browser-sync
-
 ## Todo
 
 - [ ] Actually put the project online...
-
-### JS utils
-
-Under `/assets/js/utils.js` there's a couple of `utils` functions, as integrated in biggie by [Baptiste Briel](https://github.com/baptistebriel/):
-
-- css
-  - `getRect(top, right, bottom, left)` returns the css rect string with clip values
-- js
-  - `arrayFrom(opt)` returns an array from an argument (usually a `NodeList`)
-  - `clamp(min, value, max)` return a clamped value between min and max values
-  - `scrollTop` return either `pageYOffset` or `document.documentElement||document.body.scrollTop`
-- biggie
-  - `getSlug(req)` return the section slug (i.e. `home`) from bighweel's `req` parameter
-  - `createPage(req, slug)` create an `HTML element` and returns it
-  - `loadPage(req, view, done)` used on all sections's `init` to create the page
 
 ### Examples
 
@@ -63,4 +43,4 @@ Under `/assets/js/utils.js` there's a couple of `utils` functions, as integrated
 
 ### License
 
-MIT, see [LICENSE.md](https://github.com/mbusson/Opal).
+MIT, see [LICENSE.md]().
