@@ -1,14 +1,12 @@
 # Opal
-Opal is a JavaScript application boilerplate written in ES6 broadly based on [biggie](https://github.com/baptistebriel/biggie), which is itself a boilerplate based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/) (check it out!). Please also check out [Baptiste Briel](https://github.com/baptistebriel/)'s work, as most of this project is based on his boilerplate.
+
+Opal is a JavaScript application boilerplate written in ES6 broadly based on [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself a boilerplate based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/).
 
 Opal aims at integrating several features to biggie, such as:
 - [x] Jade preprocessing
 - [x] Sass preprocessing
 - [x] jQuery support
 - [x] GSAP support
-
-And removing some other features such as:
-- [ ] LESS preprocessing
 
 ## Getting Started
 
