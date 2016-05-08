@@ -26,13 +26,13 @@ This tutorial will guide you through the use of Opal. It is quite bulky but requ
 Part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework.
 
 ##### Part 1:
-- [Managing content with Bigwheel](quickstart.md)
+- [Managing content with Bigwheel](quickstart.md) [SOON]
 
 ##### Part 2:
-- [Handy utilities with Biggie](quickstart.md)
+- [Handy utilities with Biggie](quickstart.md) [SOON]
 
 ##### Part 3:
-- [Good to know...](quickstart.md)
+- [Good to know...](quickstart.md) [SOON]
 
 ## Todo
 
