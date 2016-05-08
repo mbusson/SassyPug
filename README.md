@@ -10,7 +10,7 @@ Opal is a Javascript application boilerplate derived from [Baptiste Briel](https
 - [x] Browserify, babelify and uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
 - [x] Livereload your CSS and JS (with browser-sync)
 - [x] Offers a stable and simple structure to manage and animate your contents
-- [x] + Fancy utilities described in Part.2 of the Tutorial
+- [x] Fancy utilities described in Part.2 of the Tutorial
 
 ## Getting Started
 
