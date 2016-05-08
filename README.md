@@ -1,8 +1,6 @@
 # Opal
 Opal is a JavaScript application boilerplate written in ES6 broadly based on [biggie](https://github.com/baptistebriel/biggie), which is itself a boilerplate based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/) (check it out!). Please also check out [Baptiste Briel](https://github.com/baptistebriel/)'s work, as most of this project is based on his boilerplate.
 
-Be sure to check out the full [documentation](https://github.com/bigwheel-framework/documentation) for bigwheel before you're getting started.
-
 Opal aims at integrating several features to biggie, such as:
 - [x] Jade preprocessing
 - [x] Sass preprocessing
@@ -19,6 +17,41 @@ And removing some other features such as:
 `cd folder-name && npm i && gulp`
 
 Your site will be at `http://localhost:3000` by default using [browser-sync](http://www.browsersync.io)
+
+## Tutorial
+
+This tutorial will guide you through the use of Opal, part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework.
+
+### Using bigwheel:
+- [Quick Start](quickstart.md)
+
+### Sections:
+- [What is a section](sections.md)
+- Methods of a section:
+    + [init](sections-init.md)
+    + [resize](sections-resize.md)
+    + [animateIn](sections-animateInOut.md#animatein) and [animateOut](sections-animateInOut.md#animateout)
+    + [destroy](sections-destroy.md)
+
+### Routing:
+- [What is a route](routes.md)
+- [Defining routes](routes-defining.md)
+    + [As section](routes-defining.md#as-section-standard-form)
+    + [As section descriptor](routes-defining.md#as-section-descriptor)
+    + [Multi section routes](routes-defining.md#multi-section-routes)
+- [Special Routes](routes-special.md)
+    + [Redirects](routes-special.md#redirects)
+    + [404](routes-special.md#404)
+    + [initSection](routes-special.md#initsection)
+
+### Misc:
+- [Auto resize](misc.md#auto-resize)
+- [Post hash](misc.md#auto-resize)
+- [Overlap](misc.md#overlap)
+
+### Gotchas:
+- [Forgetting to call done](gotchas.md#forgetting-to-call-done)
+- [Circular dependendencies](gotchas.md#circular-dependendencies)
 
 ## Gulp tasks
 
