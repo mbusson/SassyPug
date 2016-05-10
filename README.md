@@ -12,7 +12,7 @@ Opal is a Javascript application boilerplate derived from [Baptiste Briel](https
 - [x] Offers a stable and simple structure to manage and animate your contents
 - [x] Fancy utilities from biggie described in Part.2 of the Tutorial
 
-## Getting Started
+## Quickstart
 
 `git clone https://github.com/mbusson/Opal.git folder-name`
 
