@@ -28,7 +28,7 @@ Part 2 is broadly based on [bigwheel's documentation](https://github.com/bigwhee
 
 ##### Part 1:
 - [Getting started](quickstart.md) [SOON]
-- 
+
 ##### Part 2:
 - [Managing content with Bigwheel](quickstart.md) [SOON]
 
