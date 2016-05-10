@@ -22,14 +22,14 @@ Your site will be at `http://localhost:3000` by default using [browser-sync](htt
 
 ## Tutorial
 
-This tutorial will guide you through the use of Opal. It is quite bulky but required to get a good grasp on what's actually going on in Opal.
-Part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework.
+This tutorial will guide you through the use of Opal. It is quite bulky but kinda required to get a good grasp on what's actually going on in Opal.
+Part 1 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework. Second part is about the use of [biggie](https://github.com/baptistebriel/biggie).
 
 ##### Part 1:
 - [Managing content with Bigwheel](quickstart.md) [SOON]
 
 ##### Part 2:
-- [Handy utilities with Biggie](quickstart.md) [SOON]
+- [Handy template and utilities with Biggie](quickstart.md) [SOON]
 
 ##### Part 3:
 - [Good to know...](quickstart.md) [SOON]
