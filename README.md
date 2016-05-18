@@ -1,6 +1,6 @@
-# Opal
+# SassyPug
 
-Opal is a Javascript application boilerplate derived from [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/). Opal is basically biggie with a few variations in features as you can read in the next section.
+SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/). SassyPug is basically biggie with a few variations in features as you can read in the next section. That plus a cool name based on the latter. Clever, innit? (...)
 
 ## Features
 
@@ -15,7 +15,7 @@ Opal is a Javascript application boilerplate derived from [Baptiste Briel](https
 
 ## Quickstart
 
-`git clone https://github.com/mbusson/Opal.git folder-name`
+`git clone https://github.com/mbusson/SassyPug.git folder-name`
 
 `cd folder-name && npm i && gulp`
 
@@ -23,9 +23,9 @@ Your site will be at `http://localhost:3000` by default using [browser-sync](htt
 
 ## Tutorial
 
-This tutorial will guide you through the use of Opal. It is quite bulky but lays out the basics in order to get a good grasp on what's actually going on.
+This tutorial will guide you through the use of SassyPug. It is quite bulky but lays out the basics in order to get a good grasp on what's actually going on.
 
-Part 2 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as Opal is built upon the framework. The third part is about the use of [biggie](https://github.com/baptistebriel/biggie). Fourth part dispenses handy information to make the best out of Opal. Most of these are really helpful if you're not used to frameworks and boilerplates.
+Part 2 is broadly based on [bigwheel's documentation](https://github.com/bigwheel-framework/documentation) as SassyPug is built upon the framework. The third part is about the use of [biggie](https://github.com/baptistebriel/biggie). Fourth part dispenses handy information to make the best out of SassyPug. Most of these are really helpful if you're not used to frameworks and boilerplates.
 
 ##### Part 1:
 - [Getting started](quickstart.md) [SOON]
