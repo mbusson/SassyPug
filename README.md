@@ -11,7 +11,7 @@ SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](h
 - [x] Optimize all assets (CSS, JS, fonts, and images) for production
 - [x] Livereload (refreshes the browser automatically whenever you save a file)
 - [x] Offers a stable and simple structure to manage and animate your contents
-- [x] Fancy utilities from biggie described in Part.2 of the Tutorial
+- [x] Fancy utilities from biggie described in Part.3 of the Tutorial
 
 ## Quickstart
 
