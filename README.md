@@ -16,7 +16,7 @@ SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](h
 
 ## Tutorial
 
-This tutorial will guide you through the use of SassyPug. It is quite bulky but lays out the basics in order to get a good grasp on what's actually going on.
+I would strongly recommend you read our Tutorial before trying to start with SassyPug.
 
 ### [>> Link to the Tutorial <<](https://github.com/mbusson/SassyPug/wiki/Tutorial)
 
