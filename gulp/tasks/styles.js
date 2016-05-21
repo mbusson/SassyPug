@@ -9,7 +9,7 @@ var rename = require("gulp-rename");
 var browserSync = require('browser-sync');
 
 gulp.task('sass', function() {
-    gulp.src('assets/scss/layout.scss')
+    gulp.src('assets/scss/main.scss')
         .pipe(sass().on('error', gutil.log))
         .pipe(autoprefixer({
             browsers: ['last 2 versions'],
