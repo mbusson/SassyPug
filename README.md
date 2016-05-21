@@ -1,6 +1,8 @@
 # SassyPug
 
-SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/). SassyPug is basically biggie with a few variations in features as you can read in the next section. That plus a cool name based on the latter. Clever, innit? (...)
+SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](https://github.com/baptistebriel/)'s [biggie](https://github.com/baptistebriel/biggie), which is itself based on [bigwheel](https://github.com/bigwheel-framework), a minimalist framework from [Jam3](http://www.jam3.com/). SassyPug is basically biggie with a few variations in features as you can read in the next section.
+
+Oh, by the way, [**we have a wiki**](https://github.com/mbusson/SassyPug/wiki)!
 
 ## Features
 
