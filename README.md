@@ -14,14 +14,6 @@ SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](h
 - [x] Offer a stable and simple structure to manage and animate your contents
 - [x] Fancy utilities from biggie described in Part.3 of the Tutorial
 
-## Quickstart
-
-`git clone https://github.com/mbusson/SassyPug.git folder-name`
-
-`cd folder-name && npm i && gulp`
-
-Your site will be at `http://localhost:3000` by default using [browser-sync](http://www.browsersync.io)
-
 ## Tutorial
 
 This tutorial will guide you through the use of SassyPug. It is quite bulky but lays out the basics in order to get a good grasp on what's actually going on.
