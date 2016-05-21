@@ -31,17 +31,13 @@ Part 2 is broadly based on [bigwheel's documentation](https://github.com/bigwhee
 ##### Part 1:
 - [Getting started](quickstart.md) [SOON]
   - [Initiating SassyPug (first use)](quickstart.md) [SOON]
-      - [TL;DR](quickstart.md) [SOON]
   - [Understanding the framework's structure](quickstart.md) [SOON]
-      - [TL;DR](quickstart.md) [SOON]
 
 ##### Part 2:
 - [Managing content with Bigwheel](quickstart.md) [SOON]
   - [Introduction](quickstart.md) [SOON]
   - [Understanding and defining Routes](quickstart.md) [SOON]
-      - [TL;DR](quickstart.md) [SOON]
   - [Understanding and managing sections](quickstart.md) [SOON]
-      - [TL;DR](quickstart.md) [SOON]
   - [Good to Know](quickstart.md) [SOON]
       - [Miscellaneous](quickstart.md) [SOON]
       - [Things to look out for](quickstart.md) [SOON]
