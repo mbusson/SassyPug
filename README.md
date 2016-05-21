@@ -48,7 +48,7 @@ Part 2 is broadly based on [bigwheel's documentation](https://github.com/bigwhee
   - [Javascript utilities](quickstart.md) [SOON]
       - [arrayFrom(opt)](quickstart.md) [SOON]
       - [clamp(min, value, max)](quickstart.md) [SOON]
-      - [scrollTop)](quickstart.md) [SOON]
+      - [scrollTop](quickstart.md) [SOON]
   - [Biggie-specific utilities](quickstart.md) [SOON]
       - [getSlug(req)](quickstart.md) [SOON]
       - [createPage(req, slug)](quickstart.md) [SOON]
