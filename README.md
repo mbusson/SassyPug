@@ -8,9 +8,10 @@ SassyPug is a Javascript application boilerplate derived from [Baptiste Briel](h
 - [x] Sass preprocessing
 - [x] jQuery and GSAP native implementation
 - [x] Browserify, babelify and uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
+- [ ] Automatic Linting of Javascript files
 - [x] Optimize all assets (CSS, JS, fonts, and images) for production
 - [x] Livereload (refreshes the browser automatically whenever you save a file)
-- [x] Offers a stable and simple structure to manage and animate your contents
+- [x] Offer a stable and simple structure to manage and animate your contents
 - [x] Fancy utilities from biggie described in Part.3 of the Tutorial
 
 ## Quickstart
