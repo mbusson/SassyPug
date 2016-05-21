@@ -30,19 +30,41 @@ Part 2 is broadly based on [bigwheel's documentation](https://github.com/bigwhee
 
 ##### Part 1:
 - [Getting started](quickstart.md) [SOON]
+  - [Initiating SassyPug (first use)](quickstart.md) [SOON]
+      - [TL;DR](quickstart.md) [SOON]
+  - [Understanding the framework's structure](quickstart.md) [SOON]
+      - [TL;DR](quickstart.md) [SOON]
 
 ##### Part 2:
 - [Managing content with Bigwheel](quickstart.md) [SOON]
+  - [Introduction](quickstart.md) [SOON]
+  - [Understanding and defining Routes](quickstart.md) [SOON]
+      - [TL;DR](quickstart.md) [SOON]
+  - [Understanding and managing sections](quickstart.md) [SOON]
+      - [TL;DR](quickstart.md) [SOON]
+  - [Good to Know](quickstart.md) [SOON]
+      - [Miscellaneous](quickstart.md) [SOON]
+      - [Things to look out for](quickstart.md) [SOON]
 
 ##### Part 3:
 - [Handy template and utilities with Biggie](quickstart.md) [SOON]
+  - [CSS GetRect calls](quickstart.md) [SOON]
+  - [Javascript utilities](quickstart.md) [SOON]
+      - [arrayFrom(opt)](quickstart.md) [SOON]
+      - [clamp(min, value, max)](quickstart.md) [SOON]
+      - [scrollTop)](quickstart.md) [SOON]
+  - [Biggie-specific utilities](quickstart.md) [SOON]
+      - [getSlug(req)](quickstart.md) [SOON]
+      - [createPage(req, slug)](quickstart.md) [SOON]
+      - [loadPage(req, view, done)](quickstart.md) [SOON]
 
 ##### Part 4:
 - [Good to know...](quickstart.md) [SOON]
 
 ## Todo
 
-- [ ] Actually put the project online...
+- [ ] Automatic Linting of Javascript files
+- [ ] Writing documentation
 
 ### Examples
 
