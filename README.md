@@ -10,7 +10,7 @@ Oh, by the way, [**we have a wiki**](https://github.com/mbusson/SassyPug/wiki)!
 - [x] Sass preprocessing
 - [x] jQuery and GSAP native implementation
 - [x] Browserify, babelify and uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
-- [ ] Automatic Linting of Javascript files
+- [x] Automatic Linting of Javascript files
 - [x] Optimize all assets (CSS, JS, fonts, and images) for production
 - [x] Livereload (refreshes the browser automatically whenever you save a file)
 - [x] Offer a stable and simple structure to manage and animate your contents
@@ -24,7 +24,6 @@ I would strongly recommend you read our Tutorial before getting started with Sas
 
 ## Todo
 
-- [ ] Automatic Linting of Javascript files
 - [ ] Finishing documentation
 
 ### Examples
