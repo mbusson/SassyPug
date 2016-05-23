@@ -25,7 +25,7 @@ I would strongly recommend you read our Tutorial before getting started with Sas
 ## Todo
 
 - [ ] Automatic Linting of Javascript files
-- [ ] Writing documentation
+- [ ] Finishing documentation
 
 ### Examples
 
