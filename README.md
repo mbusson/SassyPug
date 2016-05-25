@@ -19,7 +19,7 @@ Oh, by the way, [**we have a wiki**](https://github.com/mbusson/SassyPug/wiki)!
 ## Tutorial
 
 I would strongly recommend you read our Tutorial before getting started with SassyPug.
-Also, please be aware you need a basic understanding of object-oriented Javascript to use our boilerplate.
+Also, please be aware you need a basic understanding of object-oriented Javascript to use the boilerplate.
 
 ### [>> Link to the Tutorial <<](https://github.com/mbusson/SassyPug/wiki/Tutorial)
 
