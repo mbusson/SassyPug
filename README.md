@@ -8,8 +8,8 @@ Oh, by the way, [**we have a wiki**](https://github.com/mbusson/SassyPug/wiki)!
 
 - [x] Pug & Sass preprocessing
 - [x] jQuery & GSAP native implementation
-- [x] Browserify, babelify and uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
-- [x] Live Linting of Javascript files on console (default: ES6, minimal semi-colon usage)
+- [x] Browserify, babelify & uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
+- [x] Live linting of Javascript files on console (default: ES6, minimal semi-colon usage)
 - [x] Optimize all assets (CSS, JS, fonts, and images) for production
 - [x] Livereload (refreshes the browser automatically whenever you save a file)
 - [x] Offer a stable and simple structure to manage and animate your contents
