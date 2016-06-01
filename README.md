@@ -6,8 +6,7 @@ Oh, by the way, [**we have a wiki**](https://github.com/mbusson/SassyPug/wiki)!
 
 ## Features
 
-- [x] Pug preprocessing
-- [x] Sass preprocessing
+- [x] Pug & Sass preprocessing
 - [x] jQuery and GSAP native implementation
 - [x] Browserify, babelify and uglify Javascript files (automatically uses `build/app.js` for dev, `build/app.min.js` for prod)
 - [x] Live Linting of Javascript files on console (default: ES6, minimal semi-colon usage)
