@@ -1,7 +1,6 @@
 import config from 'config'
 import classes from 'dom-classes'
 import create from 'dom-create-element'
-import gsap from 'gsap'
 
 TweenLite.defaultEase = Expo.easeOut
 
